@@ -1,0 +1,9 @@
+.App {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+.App-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
