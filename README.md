@@ -2,4 +2,6 @@ This project is a Mini Learning Management System (LMS) built using React. It fe
 
 The Dashboard provides a visual summary of course completion using a pie chart, helping users easily understand their progress at a glance. Designed to be lightweight, responsive, and clean, this mini LMS serves as a basic but functional model for online learning platforms.
 
+web link[https://lms-mini-riya.vercel.app/user]
+
 Developed by Riya Ramachandran.
